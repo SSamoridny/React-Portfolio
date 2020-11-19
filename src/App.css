@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  /* background: url(/public/background.jpg); */
+}
+
+.navbar a{
+  color: white;
+  font-weight: 600;
+}
+
+navbar {
+  border: 2px solid white;
+}
+
+.card-img-top {
+  height: 13rem;
+  width: 17.95rem;
+}
+
+.card-body {
+  background-color: rgb(245, 238, 238);
+}
+
+.navbar-toggler {
+  border: 2px solid white;
+}
+
+.navbar-toggler-icon {
+  color: white;
+  
+}

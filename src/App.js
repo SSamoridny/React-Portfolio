@@ -19,7 +19,7 @@ function App() {
             <About />
           </Route>
           <Route path="/">
-            <Home city='Toronto'/>
+            <Home />
           </Route>
         </Switch>
       </div>

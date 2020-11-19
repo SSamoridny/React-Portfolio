@@ -1,28 +1,61 @@
 import React, {useState, useEffect} from "react";
-import axios from 'axios';
+import Card from '../components/Card'
 
-function Portfolio() {
-  const [userlist, setuserlist] = useState([])
-
-  useEffect(() => {
-    console.log('use Effect!')
-    findusers()
-  },[]);
-
-  async function findusers (){
-    const users = await axios.get('https://randomuser.me/api/?results=100');
-    console.log(users.data.results);
-    setuserlist(users.data.results);
-  }
-
+function Portfolio(props) {
   return (
     <div>
-      <h1>We are in the portfolio component</h1>
-      <p>This is where the random users will be:</p>
-      {/* {JSON.stringify(userlist)} */}
-      {userlist.map(user => 
-        <li>{user.name.first}</li>
-      )}
+      <h1>FEATURED WORK</h1>
+      <div className="row">
+        <div className="col">
+        
+          <Card
+            name="Flame Game"
+            projectname="Flame Game"
+            titlecolor="midnightblue"
+            cardimg="/Flame Game.png"
+          />
+        </div>
+        <div className="col">
+          <Card
+            name="Not ESPN"
+            projectname="Not ESPN"
+            titlecolor="midnightblue"
+            cardimg="/Not ESPN.png"
+          />
+        </div>
+        <div className="col">
+          <Card
+            name="JavaScript Quiz"
+            projectname="JavaScript Quiz"
+            titlecolor="midnightblue"
+            cardimg="/Quiz Game.png"
+          />
+        </div>
+        <div className="col">
+          <Card
+            name="Day Planner"
+            projectname="Day Planner"
+            titlecolor="midnightblue"
+            cardimg="Day Planner.png"
+          />
+        </div>
+        <div className="col">
+          <Card
+            name="Weather Dashboard"
+            projectname="Weather Dashboard"
+            titlecolor="midnightblue"
+            cardimg="Weather Dashboard.png"
+          />
+        </div>
+        <div className="col">
+          <Card
+            name="Placeholder"
+            projectname="Placeholder"
+            titlecolor="midnightblue"
+            cardimg="https://upload.wikimedia.org/wikipedia/commons/6/6b/Taka_Shiba.jpg"
+          />
+        </div>
+      </div>
     </div>
   );
 }

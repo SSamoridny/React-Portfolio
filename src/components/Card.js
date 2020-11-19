@@ -11,7 +11,7 @@ function Card(props) {
           bulk of the card's content.
         </p>
         <a href="#" className="btn btn-primary">
-          Go find {props.dogname}
+          {props.projectname}
         </a>
       </div>
     </div>
