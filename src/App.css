@@ -39,7 +39,11 @@
 
 body {
   font-family: 'Josefin Sans', sans-serif;
-  /* background: url(/public/background.jpg); */
+  background-image: url("https://image.freepik.com/free-vector/creative-abstract-texture-background-vector-illustration_1284-41950.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border: 2px solid white;
 }
 
 .navbar a{
@@ -67,4 +71,39 @@ navbar {
 .navbar-toggler-icon {
   color: white;
   
+}
+
+.jumbotron {
+  background-image: url("https://uiaa-web.azureedge.net/wp-content/uploads/2017/11/RTM19-banner-web.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border: 2px solid white;
+}
+
+.container {
+    background-image: src("/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.display-4,
+.display-6,
+.lead {
+  color: white;
+  font-weight: 600;
+}
+
+#about-me img {
+  height: 8.25em;
+  width: 8.25em;
+  border: 4px solid navy;
+  border-radius: 80px;
+}
+
+.list-group-item {
+  background-color: midnightblue;
+  color: white;
+  border: 2px solid white;
 }

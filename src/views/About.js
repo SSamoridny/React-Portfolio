@@ -1,9 +1,10 @@
 import React from "react";
+import Contact from '../components/Contact'
 
 function About(props) {
   return (
     <div>
-      <h1>We are in the About component</h1>
+      <Contact/>
     </div>
   );
 }
