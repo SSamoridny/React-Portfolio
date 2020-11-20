@@ -38,12 +38,15 @@
 }
 
 .body {
+  margin: 0;
+  height: 100vh;
   font-family: 'Josefin Sans', sans-serif;
   background-image: url("https://image.freepik.com/free-vector/creative-abstract-texture-background-vector-illustration_1284-41950.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   border: 2px solid white;
+  color: white;
 }
 
 .navbar a,
@@ -71,7 +74,6 @@ navbar {
 
 .navbar-toggler-icon {
   color: white;
-  
 }
 
 .jumbotron {
@@ -94,6 +96,10 @@ navbar {
 .lead {
   color: white;
   font-weight: 600;
+}
+
+label {
+  color: midnightblue;
 }
 
 #about-me img {

@@ -5,9 +5,9 @@ import React from "react";
   
         <footer>
           <nav className="nav" style={style}>
-            <a className="nav-link" href="index.html">Home</a>
-            <a className="nav-link" href="portfolio.html">Portfolio</a>
-            <a className="nav-link" href="contact.html">Contact</a>
+            <a className="nav-link" href="/">Home</a>
+            <a className="nav-link" href="/Portfolio">Portfolio</a>
+            <a className="nav-link" href="/About">Contact</a>
           </nav>
         </footer>
       );
