@@ -17,6 +17,7 @@
 ## Installation:
 
          This project requires no installation, just a simple link which will be provided below
+   [Portfolio of Shaun Samoridny]([ssamoridny@gmail.com](ssamoridny@gmail.com))
 
 ## Usage:
 
@@ -28,11 +29,11 @@
 
 ## GitHUb Adress:
 
-   [](github.com/SSamoridny)
+   [SSamoridny](github.com/SSamoridny)
 
 ## Email Address:
 
-   [](ssamoridny@gmail.com)
+   [ssamoridny@gmail.com](ssamoridny@gmail.com)
 
 ## License:
     
