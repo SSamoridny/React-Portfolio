@@ -17,7 +17,7 @@
 ## Installation:
 
          This project requires no installation, just a simple link which will be provided below
-   [Portfolio of Shaun Samoridny]([ssamoridny@gmail.com](ssamoridny@gmail.com))
+   [Portfolio of Shaun Samoridny](https://ssamoridny.github.io/React-Portfolio/)
 
 ## Usage:
 
