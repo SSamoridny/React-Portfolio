@@ -37,7 +37,7 @@
   }
 }
 
-body {
+.body {
   font-family: 'Josefin Sans', sans-serif;
   background-image: url("https://image.freepik.com/free-vector/creative-abstract-texture-background-vector-illustration_1284-41950.jpg");
   background-repeat: no-repeat;
@@ -46,7 +46,8 @@ body {
   border: 2px solid white;
 }
 
-.navbar a{
+.navbar a,
+.navbar, a {
   color: white;
   font-weight: 600;
 }
@@ -106,4 +107,40 @@ navbar {
   background-color: midnightblue;
   color: white;
   border: 2px solid white;
+}
+
+.form-control {
+  background-color: midnightblue;
+}
+
+footer {
+  background-color: midnightblue;
+  color: white;
+}
+
+a:visited {
+  color: inherit;
+}
+
+h1, h4, h5, p {
+  color: midnightblue;
+}
+
+@media only screen and (max-width: 411px) {
+  .display-4 {
+    font-size: 35px;
+  }
+
+  .list-group-item {
+      font-size:8px;
+  }
+
+  .list-group-item a {
+      visibility: hidden;
+  }
+
+  .list-group-item a .fab {
+      visibility: visible;
+  }
+
 }
