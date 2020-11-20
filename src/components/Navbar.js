@@ -6,7 +6,7 @@ export default function Navbar() {
 
     
         <nav className="navbar navbar-expand-lg" style={{backgroundColor: "midnightblue", fontWeight: "bold", letterSpacing: ".03rem"}}>
-          <NavLink className="navbar-brand" to="/">
+          <NavLink className="navbar-brand" to="/React-Portfolio/">
             Samoridny Full Stack Development
           </NavLink>
           <button
@@ -23,12 +23,12 @@ export default function Navbar() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <NavLink className="nav-link" to="/portfolio">
+                <NavLink className="nav-link" to="/React-Portfolio/Portfolio">
                   Portfolio
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/about">
+                <NavLink className="nav-link" to="/React-Portfolio/About">
                   About
                 </NavLink>
               </li>

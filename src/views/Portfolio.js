@@ -2,9 +2,10 @@ import React from "react";
 import Card from '../components/Card'
 import flame from '../assets/Flame Game.png'
 import espn from '../assets/Not ESPN.png'
-import quiz from '../assets/Quiz Game.png'
+import budget from '../assets/Budget Tracker.png'
 import planner from '../assets/Day Planner.png'
 import weather from '../assets/Weather Dashboard.png'
+import workout from '../assets/Workout Tracker.png'
 
 function Portfolio(props) {
   return (
@@ -29,17 +30,17 @@ function Portfolio(props) {
             titlecolor="midnightblue"
             cardimg={espn}
             projectlink="https://npcoding25.github.io/Project-1/"
-            description="Not ESPN was designed for the sports fanatic allowing you to search your favourite athletes and teams"
+            description="Not ESPN was designed for the sports fanatic allowing you to search your favourite athletes and teams in both soccer and basketball"
           />
         </div>
         <div className="col">
           <Card
-            name="JavaScript Quiz"
-            projectname="JavaScript Quiz"
+            name="Budget Tracker"
+            projectname="Budget Tracker"
             titlecolor="midnightblue"
-            cardimg={quiz}
-            projectlink="https://ssamoridny.github.io/JavaScript-Quiz-Game/"
-            description="New to JavaScript? Give our quiz a try! Beat the clock and store your high scores but be careful, get a question wrong and time will disappear!"
+            cardimg={budget}
+            projectlink="https://cryptic-brook-73198.herokuapp.com/"
+            description="Easy come, easy go... it doesn't have to be. Tired of wondering why your bank account is empty? Try the Budget Tracker"
           />
         </div>
         <div className="col">
@@ -64,12 +65,12 @@ function Portfolio(props) {
         </div>
         <div className="col">
           <Card
-            name="Placeholder"
-            projectname="Placeholder"
+            name="Workout Tracker"
+            projectname="Workout Tracker"
             titlecolor="midnightblue"
-            cardimg="https://upload.wikimedia.org/wikipedia/commons/6/6b/Taka_Shiba.jpg"
-            projectlink=""
-            description=""
+            cardimg={workout}
+            projectlink="https://fathomless-headland-20645.herokuapp.com/"
+            description="Working out is hard enough. Sometimes you can't even stand let alone remember what you did last time. Wonder no more with the Workout Tracker!"
           />
         </div>
       </div>

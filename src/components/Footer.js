@@ -1,13 +1,14 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 
     function Footer(props) {
       return (
   
         <footer>
           <nav className="nav" style={style}>
-            <a className="nav-link" href="/">Home</a>
-            <a className="nav-link" href="/Portfolio">Portfolio</a>
-            <a className="nav-link" href="/About">Contact</a>
+            <NavLink className="nav-link" to="/React-Portfolio/">Home</NavLink>
+            <NavLink className="nav-link" to="/React-Portfolio/Portfolio">Portfolio</NavLink>
+            <NavLink className="nav-link" to="/React-Portfolio/About">Contact</NavLink>
           </nav>
         </footer>
       );
