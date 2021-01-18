@@ -7,7 +7,7 @@ export default function Navbar() {
     
         <nav className="navbar navbar-expand-lg" style={{backgroundColor: "midnightblue", fontWeight: "bold", letterSpacing: ".03rem"}}>
           <NavLink className="navbar-brand" to="/React-Portfolio/">
-            Samoridny Full Stack Development
+            Shaun Samoridny
           </NavLink>
           <button
             className="navbar-toggler"

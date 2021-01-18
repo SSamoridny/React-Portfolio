@@ -16,7 +16,7 @@ import resume from '../assets/Shaun Samoridny Resume.pdf'
               </div>
             </div>
             <h4>Contact me</h4>
-            <h4>ssamoridny@gmail.com</h4>
+            <h4><a href="mailto:ssamoridny@gmail.com">ssamoridny@gmail.com</a></h4>
             <h4>(780)952-0432</h4>
 
           </div>

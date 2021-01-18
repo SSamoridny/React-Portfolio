@@ -20,9 +20,6 @@ import React from "react";
                   <li className="list-group-item"><a href="https://www.linkedin.com/in/shaun-samoridny/">LinkedIn<i className="fab fa-linkedin-in icon" /></a></li>
                   <li className="list-group-item"><a href="https://twitter.com/home?lang=en">Twitter<i className="fab fa-twitter icon" /></a></li>
                   <li className="list-group-item"><a href="https://www.instagram.com/?hl=en">Instagram<i className="fab fa-instagram icon" /></a></li>
-                  <li className="list-group-item"><a href="https://www.snapchat.com/">Snapchat<i className="fab fa-snapchat icon" /></a></li>
-                  <li className="list-group-item"><a href="https://www.tiktok.com/en/">TikTok<i className="fab fa-tiktok icon" /></a></li>
-                  <li className="list-group-item"><a href="https://www.facebook.com/">Facebook<i className="fab fa-facebook-f icon" /></a></li>
                 </ul>
               </div>
             </div>
