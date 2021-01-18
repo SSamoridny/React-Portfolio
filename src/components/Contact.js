@@ -15,27 +15,10 @@ import resume from '../assets/Shaun Samoridny Resume.pdf'
                 <a href={resume}>Visit my Resume here</a>
               </div>
             </div>
-            <h4>Contact Us</h4>
-            <form>
-              <div className="form-group row">
-                <label htmlFor="colFormLabel" className="col-sm-2 col-form-label col-form-label-md">Name</label>
-                <div className="col-sm-10">
-                  <input type="email" className="form-control form-control-sm" id="colFormLabelSm" placeholder="Full Name" />
-                </div>
-              </div>
-              <div className="form-group row">
-                <label htmlFor="colFormLabel" className="col-sm-2 col-form-label-md">Email</label>
-                <div className="col-sm-10">
-                  <input type="email" className="form-control form-control-sm" id="colFormLabel" placeholder="Example : samoridnydesign@gmail.com" />
-                </div>
-              </div>
-              <div className="form-group row">
-                <label htmlFor="colFormLabelLg" className="col-sm-2 col-form-label col-form-label-md">Message</label>
-                <div className="col-sm-10 message">
-                  <input type="email" className="form-control form-control-md" id="colFormLabelMd" placeholder="Tell us about yourself" />
-                </div>
-              </div>
-            </form>
+            <h4>Contact me</h4>
+            <h4>ssamoridny@gmail.com</h4>
+            <h4>(780)952-0432</h4>
+
           </div>
         </div>
       );
