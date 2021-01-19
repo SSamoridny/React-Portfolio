@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.2a00eb8e.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.bda25ff3.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.bda25ff3.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.1ed65229.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.f1396be4.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.f1396be4.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fa3d6e6b.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fa3d6e6b.js.map",
     "static/js/2.449cf1a1.chunk.js": "/React-Portfolio/static/js/2.449cf1a1.chunk.js",
@@ -10,21 +10,21 @@
     "static/js/3.f4836ea4.chunk.js": "/React-Portfolio/static/js/3.f4836ea4.chunk.js",
     "static/js/3.f4836ea4.chunk.js.map": "/React-Portfolio/static/js/3.f4836ea4.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.2a00eb8e.chunk.css.map": "/React-Portfolio/static/css/main.2a00eb8e.chunk.css.map",
+    "static/css/main.1ed65229.chunk.css.map": "/React-Portfolio/static/css/main.1ed65229.chunk.css.map",
     "static/js/2.449cf1a1.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.449cf1a1.chunk.js.LICENSE.txt",
     "static/media/Budget Tracker.19a6f78c.png": "/React-Portfolio/static/media/Budget Tracker.19a6f78c.png",
     "static/media/Day Planner.dc895d51.png": "/React-Portfolio/static/media/Day Planner.dc895d51.png",
     "static/media/Flame Game.31c2fad4.png": "/React-Portfolio/static/media/Flame Game.31c2fad4.png",
     "static/media/Not ESPN.e1e61a84.png": "/React-Portfolio/static/media/Not ESPN.e1e61a84.png",
     "static/media/Profile Pic.fa8c628b.JPG": "/React-Portfolio/static/media/Profile Pic.fa8c628b.JPG",
-    "static/media/Shaun Samoridny Resume.8d654749.pdf": "/React-Portfolio/static/media/Shaun Samoridny Resume.8d654749.pdf",
+    "static/media/Shaun Samoridny Resume.42c1c96a.pdf": "/React-Portfolio/static/media/Shaun Samoridny Resume.42c1c96a.pdf",
     "static/media/Weather Dashboard.d2af5c5e.png": "/React-Portfolio/static/media/Weather Dashboard.d2af5c5e.png",
     "static/media/Workout Tracker.0abe0b63.png": "/React-Portfolio/static/media/Workout Tracker.0abe0b63.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fa3d6e6b.js",
     "static/js/2.449cf1a1.chunk.js",
-    "static/css/main.2a00eb8e.chunk.css",
-    "static/js/main.bda25ff3.chunk.js"
+    "static/css/main.1ed65229.chunk.css",
+    "static/js/main.f1396be4.chunk.js"
   ]
 }
