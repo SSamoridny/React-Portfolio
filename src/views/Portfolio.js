@@ -21,7 +21,8 @@ function Portfolio(props) {
             cardimg={flame}
             projectlink="https://tranquil-temple-78360.herokuapp.com/"
             githublink="https://github.com/SSamoridny/Project-2-Flame-Game"
-            description="An Apothecary of Hilarity, Flame Game is a fully functioning online store templete here to help you launch the business of your dreams"
+            description="An Apothecary of Hilarity, Flame Game is a fully functioning online store templete here to help you launch the business of your dreams."
+            description2="Created With: HTML, CSS, JavsScript, Bootstrap, MySQL, Node.JS,  and Express"
           />
         </div>
         <div className="col">
@@ -32,7 +33,8 @@ function Portfolio(props) {
             cardimg={espn}
             projectlink="https://npcoding25.github.io/Project-1/"
             githublink="https://github.com/npcoding25/Project-1"
-            description="Not ESPN was designed for the sports fanatic allowing you to search your favourite athletes and teams in both soccer and basketball"
+            description="Not ESPN was designed for the sports fanatic allowing you to search your favourite athletes and teams in both soccer and basketball."
+            description2="Created With: HTML, CSS, JavsScript, Bootstrap, and Restful APIs"
           />
         </div>
         <div className="col">
@@ -44,6 +46,7 @@ function Portfolio(props) {
             projectlink="https://cryptic-brook-73198.herokuapp.com/"
             githublink="https://github.com/SSamoridny/PWA-Budget-Tracker"
             description="Easy come, easy go... it doesn't have to be. Tired of wondering why your bank account is empty? Try the Budget Tracker"
+            description2="Created With: HTML, CSS, JavsScript, Bootstrap, MongoDB, Node.JS, and Express"
           />
         </div>
         <div className="col">
@@ -55,6 +58,7 @@ function Portfolio(props) {
             projectlink="https://ssamoridny.github.io/Workday-Planner/"
             githublink="https://github.com/SSamoridny/Workday-Planner"
             description="In this busy world we could all use a hand with time management! Use this stylish and handy daily planner to stay on track!"
+            description2="Created With: HTML, CSS, JavsScript, and Bootstrap"
           />
         </div>
         <div className="col">
@@ -66,6 +70,7 @@ function Portfolio(props) {
             projectlink="https://ssamoridny.github.io/Weather-Dashboard-Homework-6/"
             githublink="https://github.com/SSamoridny/Weather-Dashboard-Homework-6"
             description="Wondering what to wear today? The Weather Dashboard lets you have current temperatures and a 5 day forecast"
+            description2="Created With: HTML, CSS, JavsScript, Bootstrap, and Restful APIs"
           />
         </div>
         <div className="col">
@@ -77,6 +82,7 @@ function Portfolio(props) {
             projectlink="https://fathomless-headland-20645.herokuapp.com/"
             githublink="https://github.com/SSamoridny/NoSQL-Workout-Tracker"
             description="Working out is hard enough. Sometimes you can't even stand let alone remember what you did last time. Wonder no more with the Workout Tracker!"
+            description2="Created With: HTML, CSS, JavsScript, Bootstrap, MongoDB, Node.JS, and Express"
           />
         </div>
       </div>

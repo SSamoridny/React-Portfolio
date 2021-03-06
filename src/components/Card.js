@@ -7,6 +7,7 @@ function Card(props) {
       <div className="card-body">
         <h5 className="card-title">{props.name}</h5>
         <p className="card-text">{props.description}</p>
+        <p className="card-text">{props.description2}</p>
         <a href={props.projectlink} target="_blank" rel="noreferrer" className="btn btn-primary" style={{marginRight: '1rem'}}>
           Demo
         </a>
