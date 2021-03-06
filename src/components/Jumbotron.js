@@ -6,7 +6,7 @@ import React from "react";
         <div id="page-container">
           <div className="container">
             <div className="row">
-              <div className="col-9">
+              <div className="col-12">
                 <div className="jumbotron jumbotron-fluid">
                   <div className="container">
                     <h1 className="display-4">Design Your Brand. Own Your Presence.</h1>
@@ -14,13 +14,15 @@ import React from "react";
                   </div>
                 </div>
               </div>
-              <div className="col-3">
-                <ul className="list-group">
-                  <li className="list-group-item"><a href="https://github.com/SSamoridny">GitHub<i className="fab fa-github icon" /></a></li>
-                  <li className="list-group-item"><a href="https://www.linkedin.com/in/shaun-samoridny/">LinkedIn<i className="fab fa-linkedin-in icon" /></a></li>
-                  <li className="list-group-item"><a href="https://twitter.com/SSamoridny">Twitter<i className="fab fa-twitter icon" /></a></li>
-                  <li className="list-group-item"><a href="https://www.instagram.com/shaunsamdev/?hl=en">Instagram<i className="fab fa-instagram icon" /></a></li>
-                </ul>
+              <div className="col">
+                <div className="row-3">
+                  <ul className="list-group">
+                    <li className="list-group-item"><a href="https://github.com/SSamoridny">GitHub<i className="fab fa-github icon" /></a></li>
+                    <li className="list-group-item"><a href="https://www.linkedin.com/in/shaun-samoridny/">LinkedIn<i className="fab fa-linkedin-in icon" /></a></li>
+                    <li className="list-group-item"><a href="https://twitter.com/SSamoridny">Twitter<i className="fab fa-twitter icon" /></a></li>
+                    <li className="list-group-item"><a href="https://www.instagram.com/shaunsamdev/?hl=en">Instagram<i className="fab fa-instagram icon" /></a></li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>

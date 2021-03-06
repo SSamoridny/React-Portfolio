@@ -76,16 +76,25 @@ navbar {
   color: white;
 }
 
+
+
 .jumbotron {
-  background-image: url("https://uiaa-web.azureedge.net/wp-content/uploads/2017/11/RTM19-banner-web.jpg");
+  background-image: 
+    url("https://uiaa-web.azureedge.net/wp-content/uploads/2017/11/RTM19-banner-web.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   border: 2px solid white;
+  margin-top: 2em;
 }
 
 .container {
-    background-image: src("/background.jpg");
+    background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 10),
+      rgba(0, 0, 0, 10)
+    ),
+    src("/background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -141,12 +150,12 @@ h1, h4, h5, p {
       font-size:8px;
   }
 
-  .list-group-item a {
+  /* .list-group-item a {
       visibility: hidden;
-  }
+  } */
 
-  .list-group-item a .fab {
+  /* .list-group-item a .fab {
       visibility: visible;
-  }
+  } */
 
 }
