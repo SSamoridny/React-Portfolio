@@ -79,7 +79,11 @@ navbar {
 
 
 .jumbotron {
-  background-image: 
+  background-image:
+  linear-gradient(
+      rgba(0, 0, 0, .25),
+      rgba(0, 0, 0, .25)
+    ), 
     url("https://uiaa-web.azureedge.net/wp-content/uploads/2017/11/RTM19-banner-web.jpg");
   background-repeat: no-repeat;
   background-position: center;
@@ -89,12 +93,7 @@ navbar {
 }
 
 .container {
-    background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 10),
-      rgba(0, 0, 0, 10)
-    ),
-    src("/background.jpg");
+    background-image: src("/background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
