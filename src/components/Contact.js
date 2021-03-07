@@ -17,7 +17,7 @@ import resume from '../assets/Shaun Samoridny Resume.pdf'
                 Languages: HTML, CSS, JavaScript, JQuery, MERN Stack
                 Applications: Git, Heroku, React, Material UI, Bootstrap, NodeJs, MySQL, MongoDB, Express, GraphQL, Apollo</p>
     
-                <a classname="resume" href={resume} target="_blank" rel="noreferrer">Visit my Resume here</a>
+                <a class="resume" href={resume} target="_blank" rel="noreferrer">Visit my Resume here</a>
               </div>
             </div>
             <h4>Contact me</h4>
