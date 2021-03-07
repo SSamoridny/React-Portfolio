@@ -158,3 +158,22 @@ h1, h4, h5, p {
   }
 
 }
+
+@media only screen and (max-width: 768px) {
+  .display-4 {
+    font-size: 35px;
+  }
+
+  .list-group-item,
+  .list-group-item a {
+      font-size:8px;
+      visibility: visible;
+      color: white;
+  }
+
+  .list-group-item a .fab {
+      visibility: visible;
+      color: white;
+  }
+
+}
