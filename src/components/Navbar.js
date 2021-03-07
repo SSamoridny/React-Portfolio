@@ -7,7 +7,7 @@ export default function Navbar() {
     
         <nav className="navbar navbar-expand-lg" style={{backgroundColor: "midnightblue", fontWeight: "bold", letterSpacing: ".03rem"}}>
           <NavLink className="navbar-brand" to="/React-Portfolio/">
-            Shaun Samoridny
+            Shaun Samoridny Design
           </NavLink>
           <button
             className="navbar-toggler"
@@ -18,7 +18,7 @@ export default function Navbar() {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-          <span className="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon"><i class="fas fa-bars"></i></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">

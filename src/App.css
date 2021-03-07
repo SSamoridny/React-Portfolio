@@ -73,10 +73,9 @@ navbar {
 }
 
 .navbar-toggler-icon {
+  margin-top: .5rem;
   color: white;
 }
-
-
 
 .jumbotron {
   background-image:
@@ -91,6 +90,8 @@ navbar {
   border: 2px solid white;
   margin-top: 2em;
 }
+
+
 
 .container {
     background-image: src("/background.jpg");
