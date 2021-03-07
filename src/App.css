@@ -145,7 +145,8 @@ h1, h4, h5, p {
     font-size: 35px;
   }
 
-  .list-group-item {
+  .list-group-item,
+  .list-group-item a {
       font-size:8px;
       visibility: visible;
       color: white;
