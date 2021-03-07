@@ -17,10 +17,11 @@ import resume from '../assets/Shaun Samoridny Resume.pdf'
                 Languages: HTML, CSS, JavaScript, JQuery, MERN Stack
                 Applications: Git, Heroku, React, Material UI, Bootstrap, NodeJs, MySQL, MongoDB, Express, GraphQL, Apollo</p>
     
-                <a class="resume" href={resume} target="_blank" rel="noreferrer">Visit my Resume here</a>
+                
               </div>
             </div>
             <h4>Contact me</h4>
+            <h4><a class="resume" href={resume} target="_blank" rel="noreferrer">Visit my Resume here</a></h4>
             <h4><a href="mailto:ssamoridny@gmail.com">ssamoridny@gmail.com</a></h4>
             <h4>(780)952-0432</h4>
 

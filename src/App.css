@@ -138,11 +138,11 @@ a:visited {
 }
 
 .resume {
-  color: white;
+  color: midnightblue;
 }
 .resume:visted {
-  color: white;
-}
+  color:midnightblue;
+} 
 
 h1, h4, h5, p {
   color: midnightblue;
@@ -165,13 +165,6 @@ h1, h4, h5, p {
       color: white;
   }
 
-  .resume {
-    color: white;
-  }
-  .resume:visted {
-    color: white;
-  }
-
 }
 
 @media only screen and (max-width: 768px) {
@@ -189,13 +182,6 @@ h1, h4, h5, p {
   .list-group-item a .fab {
       visibility: visible;
       color: white;
-  }
-
-  .resume {
-    color: white;
-  }
-  .resume:visted {
-    color: white;
   }
 
 }
