@@ -133,7 +133,7 @@ footer {
 }
 
 a:visited {
-  color: inherit;
+  color: white;
 }
 
 h1, h4, h5, p {
@@ -149,12 +149,8 @@ h1, h4, h5, p {
       font-size:8px;
   }
 
-  /* .list-group-item a {
-      visibility: hidden;
-  } */
-
-  /* .list-group-item a .fab {
+  .list-group-item a .fab {
       visibility: visible;
-  } */
+  }
 
 }
