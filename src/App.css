@@ -137,15 +137,12 @@ a:visited {
   color: white;
 }
 
-.resume {
+h1, h3, h5, p {
   color: midnightblue;
 }
-.resume:visted {
-  color:midnightblue;
-} 
 
-h1, h4, h5, p {
-  color: midnightblue;
+.resume {
+  color: midnightblue !important;
 }
 
 @media only screen and (max-width: 411px) {

@@ -20,11 +20,10 @@ import resume from '../assets/Shaun Samoridny Resume.pdf'
                 
               </div>
             </div>
-            <h4>Contact Me</h4>
-            <h4><a class="resume" href={resume} target="_blank" rel="noreferrer">Visit my Resume here</a></h4>
-            <h4><a href="mailto:ssamoridny@gmail.com">ssamoridny@gmail.com</a></h4>
-            <h4>(780)952-0432</h4>
-
+            <h3>Contact Me</h3>
+            <h3><a href="mailto:ssamoridny@gmail.com">ssamoridny@gmail.com</a></h3>
+            <h3>(780)952-0432</h3>
+            <h3 ><a class="resume" href={resume} target="_blank" rel="noreferrer">Resume Link</a></h3>
           </div>
         </div>
       );
