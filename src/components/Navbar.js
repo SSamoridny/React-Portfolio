@@ -5,9 +5,9 @@ export default function Navbar() {
   return (
 
     
-        <nav class="navName" className="navbar navbar-expand-lg" style={{backgroundColor: "midnightblue", fontWeight: "bold", letterSpacing: ".03rem"}}>
+        <nav class="navName" className="navbar navbar-expand-lg border" style={{backgroundColor: "white", fontWeight: "bold", letterSpacing: ".02rem"}}>
           <NavLink className="navbar-brand" to="/React-Portfolio/">
-            Shaun Samoridny Design
+            SHAUN SAMORIDNY
           </NavLink>
           <button
             className="navbar-toggler"
@@ -24,12 +24,12 @@ export default function Navbar() {
             <ul className="navbar-nav">
               <li className="nav-item">
                 <NavLink className="nav-link" to="/React-Portfolio/Portfolio">
-                  Portfolio
+                  PORTFOLIO
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/React-Portfolio/About">
-                  About
+                  ABOUT
                 </NavLink>
               </li>
             </ul>

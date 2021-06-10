@@ -15,16 +15,12 @@ import React from "react";
                 </div>
               </div>
               
-              <div className="col">
-                <div className="row-6">
-                  <ul className="list-group">
-                    <li className="list-group-item"><a href="https://github.com/SSamoridny">GitHub  <i className="fab fa-github icon" /></a></li>
-                    <li className="list-group-item"><a href="https://www.linkedin.com/in/shaun-samoridny/">LinkedIn  <i className="fab fa-linkedin-in icon" /></a></li>
-                  <div className="row-6">
-                    <li className="list-group-item"><a href="https://twitter.com/SSamoridny">Twitter  <i className="fab fa-twitter icon" /></a></li>
-                    <li className="list-group-item"><a href="https://www.instagram.com/shaunsamdev/?hl=en">Instagram  <i className="fab fa-instagram icon" /></a></li>
-                  </div>
-                  </ul>
+              <div className="container-fluid">
+                <div className="row border">
+                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://github.com/SSamoridny">GitHub  <i className="fab fa-github icon" /></a></div>
+                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://www.linkedin.com/in/shaun-samoridny/">LinkedIn  <i className="fab fa-linkedin-in icon" /></a></div>
+                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://twitter.com/SSamoridny">Twitter  <i className="fab fa-twitter icon" /></a></div>
+                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://www.instagram.com/shaunsamdev/?hl=en">Instagram  <i className="fab fa-instagram icon" /></a></div>
                 </div>
               </div>
             </div>
