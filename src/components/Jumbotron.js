@@ -1,4 +1,5 @@
 import React from "react";
+import hashnode from '../assets/brand-icon.png'
 
     function Jumbotron(props) {
       return (
@@ -17,10 +18,10 @@ import React from "react";
               
               <div className="container-fluid">
                 <div className="row border">
-                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://github.com/SSamoridny">GitHub  <i className="fab fa-github icon" /></a></div>
-                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://www.linkedin.com/in/shaun-samoridny/">LinkedIn  <i className="fab fa-linkedin-in icon" /></a></div>
-                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://twitter.com/SSamoridny">Twitter  <i className="fab fa-twitter icon" /></a></div>
-                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://www.instagram.com/shaunsamdev/?hl=en">Instagram  <i className="fab fa-instagram icon" /></a></div>
+                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://github.com/SSamoridny" target="_blank" rel="noreferrer">GitHub  <i className="fab fa-github icon" /></a></div>
+                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://www.linkedin.com/in/shaun-samoridny/" target="_blank" rel="noreferrer">LinkedIn  <i className="fab fa-linkedin-in icon linked" /></a></div>
+                    <div className="list-group-item col-sm d-flex justify-content-center"><a href="https://twitter.com/SamoFamCreative" target="_blank" rel="noreferrer">Twitter  <i className="fab fa-twitter icon"/></a></div>
+                    <div className="list-group-item col-sm d-flex justify-content-center" ><a href="https://hashnode.com/@SamoFamCreative" target="_blank" rel="noreferrer">Hashnode <img className="hash" src={hashnode} alt=""/></a></div>
                 </div>
               </div>
             </div>

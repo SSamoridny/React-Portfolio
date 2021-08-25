@@ -3,14 +3,14 @@ import Card from '../components/Card'
 import flame from '../assets/Flame Game.png'
 import personal from '../assets/Personal.png'
 import keys from '../assets/Keys.png'
-import planner from '../assets/Day Planner.png'
+import drastic from '../assets/Drastic Measurements.png'
 import weather from '../assets/Weather Dashboard.png'
 import workout from '../assets/Workout Tracker.png'
 
 function Portfolio(props) {
   return (
     <div>
-      <h1>FEATURED WORK</h1>
+      <h1 style={{fontSize: "1.5rem", fontWeight: "bold"}}>FEATURED WORK</h1>
         <div className="container-fluid">
         <div className="row">
           
@@ -42,11 +42,24 @@ function Portfolio(props) {
 
           <div className="col-md-6 mb-4">
             <Card
-              name="Workout Tracker"
-              projectname="Workout Tracker"
+              name="K3YS NFT Website"
+              projectname="K3YS"
               titlecolor="midnightblue"
               cardimg={keys}
-              projectlink="https://fathomless-headland-20645.herokuapp.com/"
+              projectlink="https://k3ys.netlify.app/"
+              githublink="https://github.com/SSamoridny/K3YS"
+              description="In my first B2B project I was able to work with the business director of K3YS to create their site. Using best practice styles and designs, I was able to create the project to their specifications, straight to the point, and make it about the art."
+              description2="Created With: HTML, CSS"
+            />
+          </div>
+
+          <div className="col-md-6 mb-4">
+            <Card
+              name="Drastic Measurements"
+              projectname="Drastic Measurements"
+              titlecolor="midnightblue"
+              cardimg={drastic}
+              projectlink="https://vast-taiga-98028.herokuapp.com/dashboard"
               githublink="https://github.com/SSamoridny/NoSQL-Workout-Tracker"
               description="Working out is hard enough. Sometimes you can't even stand let alone remember what you did last time. Wonder no more with the Workout Tracker!"
               description2="Created With: HTML, CSS, JavsScript, Bootstrap, MongoDB, Node.JS, and Express"
@@ -55,27 +68,14 @@ function Portfolio(props) {
 
           <div className="col-md-6 mb-4">
             <Card
-              name="Workout Tracker"
-              projectname="Workout Tracker"
+              name="Weather Dashboard"
+              projectname="Weather Dashboard"
               titlecolor="midnightblue"
-              cardimg={workout}
-              projectlink="https://fathomless-headland-20645.herokuapp.com/"
-              githublink="https://github.com/SSamoridny/NoSQL-Workout-Tracker"
-              description="Working out is hard enough. Sometimes you can't even stand let alone remember what you did last time. Wonder no more with the Workout Tracker!"
-              description2="Created With: HTML, CSS, JavsScript, Bootstrap, MongoDB, Node.JS, and Express"
-            />
-          </div>
-
-          <div className="col-md-6 mb-4">
-            <Card
-              name="Workout Tracker"
-              projectname="Workout Tracker"
-              titlecolor="midnightblue"
-              cardimg={workout}
-              projectlink="https://fathomless-headland-20645.herokuapp.com/"
-              githublink="https://github.com/SSamoridny/NoSQL-Workout-Tracker"
-              description="Working out is hard enough. Sometimes you can't even stand let alone remember what you did last time. Wonder no more with the Workout Tracker!"
-              description2="Created With: HTML, CSS, JavsScript, Bootstrap, MongoDB, Node.JS, and Express"
+              cardimg={weather}
+              projectlink="https://ssamoridny.github.io/Weather-Dashboard-Homework-6/"
+              githublink="https://github.com/SSamoridny/Weather-Dashboard-Homework-6"
+              description="Not sure what to pack on your vacation? Check the 5 day forecast on the Weather Dashboard. Using weather APIs to power this JavaScript app, I was able to bring you a fully functional app with local storage to keep your weather needs on hand."
+              description2="Created With: HTML, CSS, JavsScript"
             />
           </div>
 

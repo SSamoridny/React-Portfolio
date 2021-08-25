@@ -37,6 +37,10 @@
   }
 }
 
+.portfolio-heading {
+  font-size: 1rem;
+}
+
 .body {
   margin: 0;
   min-height: 100vh;
@@ -48,6 +52,19 @@
   background-size: cover;
   border: 2px solid white;
   /* color: black; */
+}
+
+.hash {
+  width: 1rem;
+  height: 1rem;
+}
+
+.fa-twitter {
+  color: rgb(0,172,238);
+}
+
+.fa-linkedin-in {
+  color: rgb(0,114,177);
 }
 
 .container-fluid {
