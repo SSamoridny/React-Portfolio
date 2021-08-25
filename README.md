@@ -62,7 +62,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 }
 
-![Screen Shot 2021-03-10 at 10 52 28 AM](https://user-images.githubusercontent.com/30538162/110674261-f45ce580-818e-11eb-8802-b450cde0c692.png)
+![React Portfolio 2021](https://user-images.githubusercontent.com/30538162/130842483-67c555f4-3623-4880-bea5-b583ee38ba4a.png)
       
 
    
