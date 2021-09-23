@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.042461d8.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.21a00852.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.21a00852.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fa3d6e6b.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fa3d6e6b.js.map",
-    "static/js/2.449cf1a1.chunk.js": "/React-Portfolio/static/js/2.449cf1a1.chunk.js",
-    "static/js/2.449cf1a1.chunk.js.map": "/React-Portfolio/static/js/2.449cf1a1.chunk.js.map",
-    "static/js/3.f4836ea4.chunk.js": "/React-Portfolio/static/js/3.f4836ea4.chunk.js",
-    "static/js/3.f4836ea4.chunk.js.map": "/React-Portfolio/static/js/3.f4836ea4.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.348beb7c.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.50986127.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.50986127.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.65498d6c.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.65498d6c.js.map",
+    "static/js/2.4ef8674e.chunk.js": "/React-Portfolio/static/js/2.4ef8674e.chunk.js",
+    "static/js/2.4ef8674e.chunk.js.map": "/React-Portfolio/static/js/2.4ef8674e.chunk.js.map",
+    "static/js/3.b3d7b878.chunk.js": "/React-Portfolio/static/js/3.b3d7b878.chunk.js",
+    "static/js/3.b3d7b878.chunk.js.map": "/React-Portfolio/static/js/3.b3d7b878.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.042461d8.chunk.css.map": "/React-Portfolio/static/css/main.042461d8.chunk.css.map",
-    "static/js/2.449cf1a1.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.449cf1a1.chunk.js.LICENSE.txt",
+    "static/css/main.348beb7c.chunk.css.map": "/React-Portfolio/static/css/main.348beb7c.chunk.css.map",
+    "static/js/2.4ef8674e.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.4ef8674e.chunk.js.LICENSE.txt",
     "static/media/Drastic Measurements.a6e9d5ba.png": "/React-Portfolio/static/media/Drastic Measurements.a6e9d5ba.png",
     "static/media/Flame Game.9831f223.png": "/React-Portfolio/static/media/Flame Game.9831f223.png",
     "static/media/Keys.b8ba6e1d.png": "/React-Portfolio/static/media/Keys.b8ba6e1d.png",
@@ -23,9 +23,9 @@
     "static/media/brand-icon.e27c9984.png": "/React-Portfolio/static/media/brand-icon.e27c9984.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa3d6e6b.js",
-    "static/js/2.449cf1a1.chunk.js",
-    "static/css/main.042461d8.chunk.css",
-    "static/js/main.21a00852.chunk.js"
+    "static/js/runtime-main.65498d6c.js",
+    "static/js/2.4ef8674e.chunk.js",
+    "static/css/main.348beb7c.chunk.css",
+    "static/js/main.50986127.chunk.js"
   ]
 }
