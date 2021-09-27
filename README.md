@@ -12,7 +12,7 @@
 
 ## Description: 
 
-         This is my portfolio where I can showcase all of my work 
+         This portfolio not only showcases my work but also attempts to bring you a glimpse into who I am as a person and a developer. One quirk that you may notice is that I have a funstioning menu with links to things that are on my one page app. This is just to show my ability to use rouer and links to move about a multi page setting as well. 
 
 ## Installation:
 
