@@ -7,10 +7,11 @@ import drastic from '../assets/Drastic Measurements.png'
 import weather from '../assets/Weather Dashboard.png'
 import workout from '../assets/Workout Tracker.png'
 
+
 function Portfolio(props) {
   return (
     <div>
-      <h1 style={{fontSize: "1.5rem", fontWeight: "bold"}}>FEATURED WORK</h1>
+      <h1 id='portfolio' style={{fontSize: "1.5rem", fontWeight: "bold"}}>FEATURED WORK</h1>
         <div className="container-fluid">
         <div className="row">
           
@@ -59,9 +60,9 @@ function Portfolio(props) {
               projectname="Drastic Measurements"
               titlecolor="midnightblue"
               cardimg={drastic}
-              projectlink="https://vast-taiga-98028.herokuapp.com/dashboard"
-              githublink="https://github.com/SSamoridny/NoSQL-Workout-Tracker"
-              description="Working out is hard enough. Sometimes you can't even stand let alone remember what you did last time. Wonder no more with the Workout Tracker!"
+              projectlink="https://vast-taiga-98028.herokuapp.com/"
+              githublink="https://github.com/SSamoridny/Dashboard"
+              description="Created for a real world production company, Drastic Measurements is an app designed for costume measurements for Broadway productions."
               description2="Created With: HTML, CSS, JavsScript, Bootstrap, MongoDB, Node.JS, and Express"
             />
           </div>

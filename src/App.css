@@ -7,6 +7,8 @@
   pointer-events: none;
 }
 
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -76,8 +78,9 @@ navbar {
 }
 
 .card-img-top {
-  height: 13rem;
+  height: 100%;
   width: 100%;
+  background-size: cover;
 }
 
 .card-body {
@@ -91,6 +94,10 @@ navbar {
 .navbar-toggler-icon {
   margin-top: .5rem;
   color: black;
+}
+
+.nav-item {
+  margin-left: 2rem;
 }
 
 .jumbotron {
@@ -182,5 +189,6 @@ a:visited {
       visibility: visible;
       color: black;
   }
+
 
 }

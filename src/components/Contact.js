@@ -9,7 +9,7 @@ import resume from '../assets/Shaun Samoridny Resume.pdf'
           <div className="container">
             <div className="jumbotron jumbotron-fluid" id="about-me">
               <div className="container">
-                <h1 className="display-6">About Me</h1>
+                <h1 id='about' className="display-6">About Me</h1>
                 <img src={shaun} alt="Shaun Samoridny"/>
                 <p className="lead">As a life long learner I bring a desire to create, grow and always strive for more. Not content with the status quo I decided to make a massive jump, bet on myself and become a Full Stack Web Developer. In my 30+ years in the workforce, I have cultivated great personal and professional relationships where I am always doing my best to elevate those around me. I promise I will bring that same enthusiasm and dedication to your company and become an integral part of your team.
                 <br></br>

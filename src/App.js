@@ -1,10 +1,10 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
-import Portfolio from "./views/Portfolio";
-import About from "./views/About";
+// import Portfolio from "./views/Portfolio";
+// import About from "./views/About";
 import Home from "./views/Home";
-import Footer from './components/Footer'
-import { BrowserRouter as Router, Route } from "react-router-dom";
+// import Footer from './components/Footer'
+import { BrowserRouter as Router} from "react-router-dom";
 
 function App() {
   return ( <Router>
@@ -12,14 +12,15 @@ function App() {
       <Navbar />
       <div className="container">
       
-          <Route exact path="/React-Portfolio/Portfolio" component={Portfolio}/>
+          {/* <Route exact path="/React-Portfolio/Portfolio" component={Portfolio}/>
             
           <Route exact path="/React-Portfolio/About" component={About}/>
           
-          <Route exact path="/React-Portfolio/" component={Home}/>
+          <Route exact path="/React-Portfolio/" component={Home}/> */}
+          <Home />
       
       </div>
-      <Footer/>
+      {/* <Footer/> */}
     </div>
     </Router>
   );
