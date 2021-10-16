@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.a7bb22fa.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.8228486e.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.8228486e.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.bf9c2055.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.faf0db78.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.faf0db78.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.65498d6c.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.65498d6c.js.map",
     "static/js/2.4ef8674e.chunk.js": "/React-Portfolio/static/js/2.4ef8674e.chunk.js",
@@ -10,8 +10,9 @@
     "static/js/3.b3d7b878.chunk.js": "/React-Portfolio/static/js/3.b3d7b878.chunk.js",
     "static/js/3.b3d7b878.chunk.js.map": "/React-Portfolio/static/js/3.b3d7b878.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.a7bb22fa.chunk.css.map": "/React-Portfolio/static/css/main.a7bb22fa.chunk.css.map",
+    "static/css/main.bf9c2055.chunk.css.map": "/React-Portfolio/static/css/main.bf9c2055.chunk.css.map",
     "static/js/2.4ef8674e.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.4ef8674e.chunk.js.LICENSE.txt",
+    "static/media/DDS.9d5f47c1.png": "/React-Portfolio/static/media/DDS.9d5f47c1.png",
     "static/media/Drastic Measurements.a6e9d5ba.png": "/React-Portfolio/static/media/Drastic Measurements.a6e9d5ba.png",
     "static/media/Flame Game.9831f223.png": "/React-Portfolio/static/media/Flame Game.9831f223.png",
     "static/media/Keys.b8ba6e1d.png": "/React-Portfolio/static/media/Keys.b8ba6e1d.png",
@@ -25,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.65498d6c.js",
     "static/js/2.4ef8674e.chunk.js",
-    "static/css/main.a7bb22fa.chunk.css",
-    "static/js/main.8228486e.chunk.js"
+    "static/css/main.bf9c2055.chunk.css",
+    "static/js/main.faf0db78.chunk.js"
   ]
 }
